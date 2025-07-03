@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README.md aprimorado para o repositório `zsantana/prompt-engineering`, com base nas melhores práticas de documentação e no propósito geral de projetos de *prompt engineering*:
-
----
-
 # 🔧 Prompt Engineering
 
 Repositório destinado a compartilhar técnicas, melhores práticas e automatizações para engenharia de prompts voltada ao uso de LLMs (Large Language Models).
