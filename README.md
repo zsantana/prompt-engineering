@@ -71,21 +71,3 @@ A engenharia de prompt consiste em estruturar cuidadosamente a entrada a LLMs pa
 ## 🔓 Licença
 
 Esse projeto está disponível sob a [MIT License](LICENSE).
-
----
-
-### Sugestões adicionais
-
-* Adicione badges (ex: build status, cobertura de testes, PyPI).
-* Formate exemplos de prompts no README para uso imediato.
-* Crie comparativo de técnicas com links diretos aos notebooks.
-
----
-
-Esse modelo organiza o repositório de forma clara, convidativa e profissional. Se quiser, posso gerar o markdown completo pronto para colocar no GitHub. Quer que eu faça isso?
-
-[1]: https://www.researchgate.net/publication/392514294_Which_Prompting_Technique_Should_I_Use_An_Empirical_Investigation_of_Prompting_Techniques_for_Software_Engineering_Tasks?utm_source=chatgpt.com "(PDF) Which Prompting Technique Should I Use? An Empirical ..."
-[2]: https://proceedings.neurips.cc/paper_files/paper/2023/file/a00548031e4647b13042c97c922fadf1-Paper-Conference.pdf?utm_source=chatgpt.com "[PDF] Hard Prompts Made Easy: Gradient-Based Discrete Optimization for ..."
-[3]: https://github.com/preset-io/promptimize/blob/main/README.md?utm_source=chatgpt.com "README.md - preset-io/promptimize - GitHub"
-[4]: https://medium.com/%40bubu.tripathy/prompt-engineering-for-smarter-ai-results-d919add3a57e?utm_source=chatgpt.com "Prompt Engineering for Smarter AI Results | by Bubu Tripathy"
-
